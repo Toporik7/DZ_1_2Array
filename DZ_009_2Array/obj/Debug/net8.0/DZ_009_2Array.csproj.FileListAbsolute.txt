@@ -1,0 +1,14 @@
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\bin\Debug\net8.0\DZ_009_2Array.exe
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\bin\Debug\net8.0\DZ_009_2Array.deps.json
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\bin\Debug\net8.0\DZ_009_2Array.runtimeconfig.json
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\bin\Debug\net8.0\DZ_009_2Array.dll
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\bin\Debug\net8.0\DZ_009_2Array.pdb
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.AssemblyInfoInputs.cache
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.AssemblyInfo.cs
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.csproj.CoreCompileInputs.cache
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.dll
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\refint\DZ_009_2Array.dll
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.pdb
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\DZ_009_2Array.genruntimeconfig.cache
+C:\Users\Fosters PC\Desktop\Examples\DZ_009_2Array\obj\Debug\net8.0\ref\DZ_009_2Array.dll
